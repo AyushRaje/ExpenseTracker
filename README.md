@@ -17,22 +17,18 @@ With Expense Tracker, you have the tools you need to make informed financial dec
 
 ## How does it look?
 
-## Dark Mode:
+
 ###### Dashboard:
-<img src="images/output/dashboard_dark.png" width=80% height=80%>
+<img src="Samples/Dashboard.png" width=80% height=80%>
 
 ###### All Expenses:
-<img src="images/output/expenses_dark.png" width=80% height=80%>
+<img src="Samples/Expense_History.png" width=80% height=80%>
 
-###### All Transactions:
-<img src="images/output/alltransactions_dark.png" width=80% height=80%>
+###### Monthly Transactions:
+<img src="Samples/Monthly_Expense.png" width=80% height=80%>
 
-## Light Mode:
-###### Dashboard:
-<img src="images/output/dashboard_light.png" width=80% height=80%>
+###### Login:
+<img src="Samples/Login.png" width=80% height=80%>
 
-###### All Expenses:
-<img src="images/output/expenses_light.png" width=80% height=80%>
-
-###### All Transactions:
-<img src="images/output/alltransactions_light.png" width=80% height=80%>
+###### Signup:
+<img src="Samples/Signup.png" width=80% height=80%>
