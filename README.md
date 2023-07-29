@@ -6,8 +6,8 @@ With Expense Tracker, you have the tools you need to make informed financial dec
 
 ## How to run?
 1. Open any IDE for python (preferably VScode)
-2. Install all the packages/libraries mentioned in 'requirements.txt'
-3. Run 'UI.py'
+2. Install all the packages/libraries mentioned in 'requirements.txt'(Run 'pip install -r requirements.txt' in the root folder)
+3. Run 'Login.py'
 
 
 ## How does it look?
