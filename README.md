@@ -6,12 +6,7 @@ With Expense Tracker, you have the tools you need to make informed financial dec
 
 ## How to run?
 1. Open any IDE for python (preferably VScode)
-2. Install following packages
-    - Matplotlib
-    - Customtkinter
-    - numpy
-    - dexplot
-    - pandas
+2. Install all the packages/libraries mentioned in 'requirements.txt'
 3. Run 'UI.py'
 
 
