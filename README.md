@@ -14,6 +14,7 @@ With Expense Tracker, you have the tools you need to make informed financial dec
 
 
 ###### Dashboard:
+![plot](./Samples/Dashboard.png)
 <img src="Samples/Dashboard.png" width=80% height=80%>
 
 ###### All Expenses:
