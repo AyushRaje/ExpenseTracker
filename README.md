@@ -15,17 +15,17 @@ With Expense Tracker, you have the tools you need to make informed financial dec
 
 ###### Dashboard:
 
-<img src="ExpenseTracker/Samples/Dashboard.png" width=80% height=80%>
+<img src="Dashboard.png" width=80% height=80%>
 
 ###### All Expenses:
 
-<img src="Samples/Expense_History.png" width=80% height=80%>
+<img src="Expense_History.png" width=80% height=80%>
 
 ###### Monthly Transactions:
-<img src="Samples/Monthly_Expense.png" width=80% height=80%>
+<img src="Monthly_Expense.png" width=80% height=80%>
 
 ###### Login:
-<img src="Samples/Login.png" width=80% height=80%>
+<img src="Login.png" width=80% height=80%>
 
 ###### Signup:
-<img src="Samples/Signup.png" width=80% height=80%>
+<img src="Signup.png" width=80% height=80%>
