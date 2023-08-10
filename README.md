@@ -6,7 +6,7 @@ With Expense Tracker, you have the tools you need to make informed financial dec
 
 ## How to run?
 1. Open any IDE for python (preferably VScode)
-2. Install all the packages/libraries mentioned in 'requirements.txt'(Run 'pip install -r requirements.txt' in the root folder)
+2. Install all the packages/libraries mentioned in 'requirements.txt'
 3. Run 'Login.py'
 
 
@@ -14,18 +14,16 @@ With Expense Tracker, you have the tools you need to make informed financial dec
 
 
 ###### Dashboard:
-
-<img src="Dashboard.png" width=80% height=80%>
+<img src="./samples/dashboard.png" width=80% height=80%>
 
 ###### All Expenses:
-
-<img src="Expense_History.png" width=80% height=80%>
+<img src="./Samples/Expense_History.png" width=80% height=80%>
 
 ###### Monthly Transactions:
-<img src="Monthly_Expense.png" width=80% height=80%>
+<img src="./Samples/Monthly_Expense.png" width=80% height=80%>
 
 ###### Login:
-<img src="Login.png" width=80% height=80%>
+<img src="./Samples/Login.png" width=80% height=80%>
 
 ###### Signup:
-<img src="Signup.png" width=80% height=80%>
+<img src="./Samples/Signup.png" width=80% height=80%>
